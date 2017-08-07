@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizewelcome">40sp</dimen>
+    <dimen name="marginTopSize">139dp</dimen>
+    <dimen name="marginTopletter">61sp</dimen>
+    <dimen name="marginTopLand">52sp</dimen>
+    <dimen name="marginTopButtonLand">50dp</dimen>
+    <dimen name="marginTopTextxlarge">52dp</dimen>
+</resources>
